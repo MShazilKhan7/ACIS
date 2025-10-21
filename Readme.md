@@ -1,4 +1,6 @@
-# 🤖 AI Curriculum Intelligence System - Demo Link: https://youtu.be/hFsC48gCLsU?si=fFkLngwFOAAs5AZ6
+# 🤖 AI Curriculum Intelligence System 
+
+**Demo Link: https://youtu.be/hFsC48gCLsU?si=fFkLngwFOAAs5AZ6**
 
 **AI Curriculum Intelligence System** is a Python-based project designed to provide educational analytics, including feedback analysis, performance tracking, trend identification, recommendation generation, and report management.
 
