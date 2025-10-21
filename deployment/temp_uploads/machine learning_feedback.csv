@@ -1,0 +1,201 @@
+student_id,course,course_content,lecture_delivery,teaching_materials,practicals,assessment,text_feedback
+S001,Machine Learning,4,1,4,5,3,More examples would make concepts clearer.
+S002,Machine Learning,5,5,2,3,1,"Too much theory, please add more practical sessions."
+S003,Machine Learning,4,4,2,5,5,Needs more real-world projects.
+S004,Machine Learning,1,4,4,1,5,Slides are good but explanations can be improved.
+S005,Machine Learning,2,5,1,1,2,More examples would make concepts clearer.
+S006,Machine Learning,3,5,1,5,3,"Content is repetitive, can be made concise."
+S007,Machine Learning,1,3,3,1,5,Add more coding assignments.
+S008,Machine Learning,5,4,1,2,5,Slides are good but explanations can be improved.
+S009,Machine Learning,2,5,3,1,4,Good material but assessments are tough.
+S010,Machine Learning,5,1,1,3,2,"Very interactive sessions, great learning experience!"
+S011,Machine Learning,4,1,2,1,4,"Very interactive sessions, great learning experience!"
+S012,Machine Learning,2,3,3,5,2,More examples would make concepts clearer.
+S013,Machine Learning,2,2,1,1,5,Needs more real-world projects.
+S014,Machine Learning,2,2,1,5,3,Add more coding assignments.
+S015,Machine Learning,2,3,3,4,1,"Content is repetitive, can be made concise."
+S016,Machine Learning,3,3,5,2,1,Excellent course! Loved the lectures.
+S017,Machine Learning,2,2,1,3,5,Good material but assessments are tough.
+S018,Machine Learning,3,5,4,3,5,Add more coding assignments.
+S019,Machine Learning,3,2,3,2,4,Include case studies from the industry.
+S020,Machine Learning,4,2,5,2,2,Include case studies from the industry.
+S021,Machine Learning,2,1,4,1,1,"Very interactive sessions, great learning experience!"
+S022,Machine Learning,2,2,4,4,2,"Too much theory, please add more practical sessions."
+S023,Machine Learning,3,5,2,1,5,Excellent course! Loved the lectures.
+S024,Machine Learning,5,5,1,3,4,Add more coding assignments.
+S025,Machine Learning,5,4,2,3,4,Include case studies from the industry.
+S026,Machine Learning,5,3,2,2,2,"Too much theory, please add more practical sessions."
+S027,Machine Learning,1,5,3,5,1,Include case studies from the industry.
+S028,Machine Learning,3,3,1,5,3,Excellent course! Loved the lectures.
+S029,Machine Learning,4,1,4,5,5,Include case studies from the industry.
+S030,Machine Learning,1,2,1,1,4,Include case studies from the industry.
+S031,Machine Learning,1,1,2,5,3,Slides are good but explanations can be improved.
+S032,Machine Learning,4,2,3,1,3,Needs more real-world projects.
+S033,Machine Learning,4,5,1,3,1,Good material but assessments are tough.
+S034,Machine Learning,2,2,1,3,5,"Content is repetitive, can be made concise."
+S035,Machine Learning,3,4,2,5,1,"Too much theory, please add more practical sessions."
+S036,Machine Learning,1,5,2,3,4,"Too much theory, please add more practical sessions."
+S037,Machine Learning,3,5,3,2,1,"Very interactive sessions, great learning experience!"
+S038,Machine Learning,1,3,3,3,4,Needs more real-world projects.
+S039,Machine Learning,4,1,3,5,5,Needs more real-world projects.
+S040,Machine Learning,1,3,4,1,5,Good material but assessments are tough.
+S041,Machine Learning,1,2,3,5,5,Needs more real-world projects.
+S042,Machine Learning,5,4,5,4,5,Slides are good but explanations can be improved.
+S043,Machine Learning,2,4,5,4,2,"Content is repetitive, can be made concise."
+S044,Machine Learning,3,4,1,2,1,"Content is repetitive, can be made concise."
+S045,Machine Learning,4,5,3,2,5,Good material but assessments are tough.
+S046,Machine Learning,5,4,5,1,1,"Too much theory, please add more practical sessions."
+S047,Machine Learning,4,1,5,1,1,Excellent course! Loved the lectures.
+S048,Machine Learning,5,4,3,5,5,Excellent course! Loved the lectures.
+S049,Machine Learning,2,1,4,4,5,"Very interactive sessions, great learning experience!"
+S050,Machine Learning,1,4,2,3,3,Slides are good but explanations can be improved.
+S051,Machine Learning,1,3,1,2,3,Slides are good but explanations can be improved.
+S052,Machine Learning,1,5,1,5,2,More examples would make concepts clearer.
+S053,Machine Learning,4,5,1,1,3,Slides are good but explanations can be improved.
+S054,Machine Learning,2,2,3,4,3,Slides are good but explanations can be improved.
+S055,Machine Learning,3,3,1,3,4,Good material but assessments are tough.
+S056,Machine Learning,4,5,5,5,2,Add more coding assignments.
+S057,Machine Learning,3,5,2,1,1,Good material but assessments are tough.
+S058,Machine Learning,1,5,1,1,3,Needs more real-world projects.
+S059,Machine Learning,4,5,1,5,2,"Very interactive sessions, great learning experience!"
+S060,Machine Learning,5,3,2,2,5,Include case studies from the industry.
+S061,Machine Learning,2,2,4,5,3,Good material but assessments are tough.
+S062,Machine Learning,1,2,5,4,1,Slides are good but explanations can be improved.
+S063,Machine Learning,2,2,1,1,5,Needs more real-world projects.
+S064,Machine Learning,3,3,2,4,3,More examples would make concepts clearer.
+S065,Machine Learning,5,2,2,2,5,Add more coding assignments.
+S066,Machine Learning,5,1,2,3,2,"Too much theory, please add more practical sessions."
+S067,Machine Learning,3,4,1,1,1,Needs more real-world projects.
+S068,Machine Learning,2,3,2,3,3,More examples would make concepts clearer.
+S069,Machine Learning,2,3,2,3,3,"Too much theory, please add more practical sessions."
+S070,Machine Learning,4,2,5,1,3,More examples would make concepts clearer.
+S071,Machine Learning,4,2,4,3,3,Slides are good but explanations can be improved.
+S072,Machine Learning,4,5,1,2,1,Needs more real-world projects.
+S073,Machine Learning,2,5,5,3,2,Slides are good but explanations can be improved.
+S074,Machine Learning,3,5,5,5,1,"Content is repetitive, can be made concise."
+S075,Machine Learning,5,5,3,1,5,Slides are good but explanations can be improved.
+S076,Machine Learning,4,3,2,1,3,"Too much theory, please add more practical sessions."
+S077,Machine Learning,2,2,4,5,3,Slides are good but explanations can be improved.
+S078,Machine Learning,3,4,5,3,5,"Content is repetitive, can be made concise."
+S079,Machine Learning,2,2,3,4,3,Slides are good but explanations can be improved.
+S080,Machine Learning,5,5,3,1,2,Add more coding assignments.
+S081,Machine Learning,5,2,3,5,4,"Too much theory, please add more practical sessions."
+S082,Machine Learning,2,2,5,2,4,Good material but assessments are tough.
+S083,Machine Learning,3,5,3,1,5,"Content is repetitive, can be made concise."
+S084,Machine Learning,3,1,1,3,1,Needs more real-world projects.
+S085,Machine Learning,1,5,3,1,5,"Too much theory, please add more practical sessions."
+S086,Machine Learning,2,2,2,2,1,"Too much theory, please add more practical sessions."
+S087,Machine Learning,4,4,1,3,1,Include case studies from the industry.
+S088,Machine Learning,5,2,1,3,2,Include case studies from the industry.
+S089,Machine Learning,1,2,2,1,3,More examples would make concepts clearer.
+S090,Machine Learning,4,3,4,4,4,Include case studies from the industry.
+S091,Machine Learning,3,3,1,3,2,Slides are good but explanations can be improved.
+S092,Machine Learning,5,5,3,1,4,"Too much theory, please add more practical sessions."
+S093,Machine Learning,4,5,4,3,5,Good material but assessments are tough.
+S094,Machine Learning,2,1,1,4,4,Slides are good but explanations can be improved.
+S095,Machine Learning,1,4,1,5,1,Add more coding assignments.
+S096,Machine Learning,3,1,3,3,5,"Too much theory, please add more practical sessions."
+S097,Machine Learning,2,1,5,4,5,Include case studies from the industry.
+S098,Machine Learning,4,3,1,1,4,Slides are good but explanations can be improved.
+S099,Machine Learning,5,5,4,3,4,Needs more real-world projects.
+S100,Machine Learning,4,3,2,2,1,More examples would make concepts clearer.
+S101,Machine Learning,3,3,3,5,4,"Content is repetitive, can be made concise."
+S102,Machine Learning,4,1,5,2,2,Excellent course! Loved the lectures.
+S103,Machine Learning,4,5,2,1,5,"Content is repetitive, can be made concise."
+S104,Machine Learning,5,1,1,2,1,Good material but assessments are tough.
+S105,Machine Learning,4,5,1,2,3,Slides are good but explanations can be improved.
+S106,Machine Learning,4,3,1,3,3,"Content is repetitive, can be made concise."
+S107,Machine Learning,1,3,5,5,2,Good material but assessments are tough.
+S108,Machine Learning,4,5,3,3,2,Excellent course! Loved the lectures.
+S109,Machine Learning,2,4,4,5,3,Slides are good but explanations can be improved.
+S110,Machine Learning,5,3,2,4,4,Add more coding assignments.
+S111,Machine Learning,3,5,5,3,1,More examples would make concepts clearer.
+S112,Machine Learning,5,5,3,5,1,"Too much theory, please add more practical sessions."
+S113,Machine Learning,1,4,5,3,5,"Too much theory, please add more practical sessions."
+S114,Machine Learning,2,1,4,2,1,Excellent course! Loved the lectures.
+S115,Machine Learning,4,3,4,5,4,More examples would make concepts clearer.
+S116,Machine Learning,5,1,5,2,4,Needs more real-world projects.
+S117,Machine Learning,5,3,3,1,3,"Too much theory, please add more practical sessions."
+S118,Machine Learning,1,2,3,3,2,"Content is repetitive, can be made concise."
+S119,Machine Learning,4,5,3,4,3,Slides are good but explanations can be improved.
+S120,Machine Learning,5,3,4,5,1,"Very interactive sessions, great learning experience!"
+S121,Machine Learning,5,5,2,4,2,Excellent course! Loved the lectures.
+S122,Machine Learning,4,4,5,2,2,Excellent course! Loved the lectures.
+S123,Machine Learning,3,2,3,4,3,Excellent course! Loved the lectures.
+S124,Machine Learning,4,5,1,3,2,"Very interactive sessions, great learning experience!"
+S125,Machine Learning,4,3,5,2,5,"Too much theory, please add more practical sessions."
+S126,Machine Learning,2,2,2,4,4,Slides are good but explanations can be improved.
+S127,Machine Learning,5,1,1,4,1,More examples would make concepts clearer.
+S128,Machine Learning,2,3,2,2,3,"Content is repetitive, can be made concise."
+S129,Machine Learning,3,3,4,4,2,"Very interactive sessions, great learning experience!"
+S130,Machine Learning,1,1,1,2,4,"Content is repetitive, can be made concise."
+S131,Machine Learning,5,4,5,5,2,Include case studies from the industry.
+S132,Machine Learning,3,3,3,1,4,Include case studies from the industry.
+S133,Machine Learning,4,4,4,1,5,Good material but assessments are tough.
+S134,Machine Learning,3,3,4,5,3,Slides are good but explanations can be improved.
+S135,Machine Learning,3,3,5,4,2,"Too much theory, please add more practical sessions."
+S136,Machine Learning,1,5,3,1,2,"Very interactive sessions, great learning experience!"
+S137,Machine Learning,3,4,3,2,3,Needs more real-world projects.
+S138,Machine Learning,4,1,2,5,1,Slides are good but explanations can be improved.
+S139,Machine Learning,1,5,1,1,1,"Very interactive sessions, great learning experience!"
+S140,Machine Learning,2,2,1,4,4,Add more coding assignments.
+S141,Machine Learning,2,3,3,1,5,Include case studies from the industry.
+S142,Machine Learning,1,5,1,2,4,Include case studies from the industry.
+S143,Machine Learning,5,1,4,1,5,"Content is repetitive, can be made concise."
+S144,Machine Learning,2,3,4,2,3,"Content is repetitive, can be made concise."
+S145,Machine Learning,5,1,1,2,2,Add more coding assignments.
+S146,Machine Learning,3,2,4,2,2,More examples would make concepts clearer.
+S147,Machine Learning,2,1,1,3,5,Add more coding assignments.
+S148,Machine Learning,2,2,5,5,1,"Too much theory, please add more practical sessions."
+S149,Machine Learning,4,1,5,4,3,Needs more real-world projects.
+S150,Machine Learning,4,4,4,3,1,Excellent course! Loved the lectures.
+S151,Machine Learning,4,3,1,2,1,"Too much theory, please add more practical sessions."
+S152,Machine Learning,5,2,2,5,5,"Content is repetitive, can be made concise."
+S153,Machine Learning,2,4,4,3,4,"Very interactive sessions, great learning experience!"
+S154,Machine Learning,4,2,2,3,1,Excellent course! Loved the lectures.
+S155,Machine Learning,1,4,3,4,5,"Too much theory, please add more practical sessions."
+S156,Machine Learning,1,2,2,4,2,Slides are good but explanations can be improved.
+S157,Machine Learning,2,5,5,1,2,More examples would make concepts clearer.
+S158,Machine Learning,2,3,3,4,1,Good material but assessments are tough.
+S159,Machine Learning,5,2,3,3,4,More examples would make concepts clearer.
+S160,Machine Learning,1,3,5,5,3,More examples would make concepts clearer.
+S161,Machine Learning,4,1,3,5,2,More examples would make concepts clearer.
+S162,Machine Learning,4,5,3,3,4,"Content is repetitive, can be made concise."
+S163,Machine Learning,2,3,2,3,3,Add more coding assignments.
+S164,Machine Learning,2,3,4,4,1,"Too much theory, please add more practical sessions."
+S165,Machine Learning,3,4,2,2,1,Include case studies from the industry.
+S166,Machine Learning,4,4,5,5,1,Include case studies from the industry.
+S167,Machine Learning,4,3,1,4,4,Slides are good but explanations can be improved.
+S168,Machine Learning,1,4,2,2,1,"Very interactive sessions, great learning experience!"
+S169,Machine Learning,4,2,5,5,1,Excellent course! Loved the lectures.
+S170,Machine Learning,4,1,3,4,3,"Too much theory, please add more practical sessions."
+S171,Machine Learning,3,5,2,2,2,"Very interactive sessions, great learning experience!"
+S172,Machine Learning,2,5,4,2,2,Include case studies from the industry.
+S173,Machine Learning,3,1,2,5,2,"Very interactive sessions, great learning experience!"
+S174,Machine Learning,4,1,1,1,5,Include case studies from the industry.
+S175,Machine Learning,4,4,3,4,1,Add more coding assignments.
+S176,Machine Learning,3,4,3,1,3,Include case studies from the industry.
+S177,Machine Learning,4,4,2,3,1,Add more coding assignments.
+S178,Machine Learning,3,4,1,3,2,Excellent course! Loved the lectures.
+S179,Machine Learning,4,1,2,1,5,Good material but assessments are tough.
+S180,Machine Learning,4,2,2,5,1,Good material but assessments are tough.
+S181,Machine Learning,4,1,2,1,2,Include case studies from the industry.
+S182,Machine Learning,3,5,5,1,4,"Content is repetitive, can be made concise."
+S183,Machine Learning,5,2,2,5,4,More examples would make concepts clearer.
+S184,Machine Learning,1,2,5,5,1,More examples would make concepts clearer.
+S185,Machine Learning,3,5,4,3,2,"Too much theory, please add more practical sessions."
+S186,Machine Learning,4,2,5,1,5,Excellent course! Loved the lectures.
+S187,Machine Learning,3,4,5,3,1,Needs more real-world projects.
+S188,Machine Learning,3,3,4,4,2,Excellent course! Loved the lectures.
+S189,Machine Learning,3,2,4,5,2,Good material but assessments are tough.
+S190,Machine Learning,1,4,5,2,2,Needs more real-world projects.
+S191,Machine Learning,4,5,2,3,5,More examples would make concepts clearer.
+S192,Machine Learning,1,2,5,1,5,Needs more real-world projects.
+S193,Machine Learning,1,5,3,3,1,Needs more real-world projects.
+S194,Machine Learning,4,2,1,3,2,More examples would make concepts clearer.
+S195,Machine Learning,2,4,5,3,3,Needs more real-world projects.
+S196,Machine Learning,1,3,1,2,5,Good material but assessments are tough.
+S197,Machine Learning,2,3,2,3,5,"Content is repetitive, can be made concise."
+S198,Machine Learning,4,3,3,2,5,More examples would make concepts clearer.
+S199,Machine Learning,2,3,5,3,1,"Very interactive sessions, great learning experience!"
+S200,Machine Learning,3,3,1,3,1,"Content is repetitive, can be made concise."

@@ -1,0 +1,201 @@
+student_id,course,course_content,lecture_delivery,teaching_materials,practicals,assessment,text_feedback
+S001,Machine Learning,Good,Very Poor,Good,Excellent,Average,More examples would make concepts clearer.
+S002,Machine Learning,Excellent,Excellent,Poor,Average,Very Poor,"Too much theory, please add more practical sessions."
+S003,Machine Learning,Good,Good,Poor,Excellent,Excellent,Needs more real-world projects.
+S004,Machine Learning,Very Poor,Good,Good,Very Poor,Excellent,Slides are good but explanations can be improved.
+S005,Machine Learning,Poor,Excellent,Very Poor,Very Poor,Poor,More examples would make concepts clearer.
+S006,Machine Learning,Average,Excellent,Very Poor,Excellent,Average,"Content is repetitive, can be made concise."
+S007,Machine Learning,Very Poor,Average,Average,Very Poor,Excellent,Add more coding assignments.
+S008,Machine Learning,Excellent,Good,Very Poor,Poor,Excellent,Slides are good but explanations can be improved.
+S009,Machine Learning,Poor,Excellent,Average,Very Poor,Good,Good material but assessments are tough.
+S010,Machine Learning,Excellent,Very Poor,Very Poor,Average,Poor,"Very interactive sessions, great learning experience!"
+S011,Machine Learning,Good,Very Poor,Poor,Very Poor,Good,"Very interactive sessions, great learning experience!"
+S012,Machine Learning,Poor,Average,Average,Excellent,Poor,More examples would make concepts clearer.
+S013,Machine Learning,Poor,Poor,Very Poor,Very Poor,Excellent,Needs more real-world projects.
+S014,Machine Learning,Poor,Poor,Very Poor,Excellent,Average,Add more coding assignments.
+S015,Machine Learning,Poor,Average,Average,Good,Very Poor,"Content is repetitive, can be made concise."
+S016,Machine Learning,Average,Average,Excellent,Poor,Very Poor,Excellent course! Loved the lectures.
+S017,Machine Learning,Poor,Poor,Very Poor,Average,Excellent,Good material but assessments are tough.
+S018,Machine Learning,Average,Excellent,Good,Average,Excellent,Add more coding assignments.
+S019,Machine Learning,Average,Poor,Average,Poor,Good,Include case studies from the industry.
+S020,Machine Learning,Good,Poor,Excellent,Poor,Poor,Include case studies from the industry.
+S021,Machine Learning,Poor,Very Poor,Good,Very Poor,Very Poor,"Very interactive sessions, great learning experience!"
+S022,Machine Learning,Poor,Poor,Good,Good,Poor,"Too much theory, please add more practical sessions."
+S023,Machine Learning,Average,Excellent,Poor,Very Poor,Excellent,Excellent course! Loved the lectures.
+S024,Machine Learning,Excellent,Excellent,Very Poor,Average,Good,Add more coding assignments.
+S025,Machine Learning,Excellent,Good,Poor,Average,Good,Include case studies from the industry.
+S026,Machine Learning,Excellent,Average,Poor,Poor,Poor,"Too much theory, please add more practical sessions."
+S027,Machine Learning,Very Poor,Excellent,Average,Excellent,Very Poor,Include case studies from the industry.
+S028,Machine Learning,Average,Average,Very Poor,Excellent,Average,Excellent course! Loved the lectures.
+S029,Machine Learning,Good,Very Poor,Good,Excellent,Excellent,Include case studies from the industry.
+S030,Machine Learning,Very Poor,Poor,Very Poor,Very Poor,Good,Include case studies from the industry.
+S031,Machine Learning,Very Poor,Very Poor,Poor,Excellent,Average,Slides are good but explanations can be improved.
+S032,Machine Learning,Good,Poor,Average,Very Poor,Average,Needs more real-world projects.
+S033,Machine Learning,Good,Excellent,Very Poor,Average,Very Poor,Good material but assessments are tough.
+S034,Machine Learning,Poor,Poor,Very Poor,Average,Excellent,"Content is repetitive, can be made concise."
+S035,Machine Learning,Average,Good,Poor,Excellent,Very Poor,"Too much theory, please add more practical sessions."
+S036,Machine Learning,Very Poor,Excellent,Poor,Average,Good,"Too much theory, please add more practical sessions."
+S037,Machine Learning,Average,Excellent,Average,Poor,Very Poor,"Very interactive sessions, great learning experience!"
+S038,Machine Learning,Very Poor,Average,Average,Average,Good,Needs more real-world projects.
+S039,Machine Learning,Good,Very Poor,Average,Excellent,Excellent,Needs more real-world projects.
+S040,Machine Learning,Very Poor,Average,Good,Very Poor,Excellent,Good material but assessments are tough.
+S041,Machine Learning,Very Poor,Poor,Average,Excellent,Excellent,Needs more real-world projects.
+S042,Machine Learning,Excellent,Good,Excellent,Good,Excellent,Slides are good but explanations can be improved.
+S043,Machine Learning,Poor,Good,Excellent,Good,Poor,"Content is repetitive, can be made concise."
+S044,Machine Learning,Average,Good,Very Poor,Poor,Very Poor,"Content is repetitive, can be made concise."
+S045,Machine Learning,Good,Excellent,Average,Poor,Excellent,Good material but assessments are tough.
+S046,Machine Learning,Excellent,Good,Excellent,Very Poor,Very Poor,"Too much theory, please add more practical sessions."
+S047,Machine Learning,Good,Very Poor,Excellent,Very Poor,Very Poor,Excellent course! Loved the lectures.
+S048,Machine Learning,Excellent,Good,Average,Excellent,Excellent,Excellent course! Loved the lectures.
+S049,Machine Learning,Poor,Very Poor,Good,Good,Excellent,"Very interactive sessions, great learning experience!"
+S050,Machine Learning,Very Poor,Good,Poor,Average,Average,Slides are good but explanations can be improved.
+S051,Machine Learning,Very Poor,Average,Very Poor,Poor,Average,Slides are good but explanations can be improved.
+S052,Machine Learning,Very Poor,Excellent,Very Poor,Excellent,Poor,More examples would make concepts clearer.
+S053,Machine Learning,Good,Excellent,Very Poor,Very Poor,Average,Slides are good but explanations can be improved.
+S054,Machine Learning,Poor,Poor,Average,Good,Average,Slides are good but explanations can be improved.
+S055,Machine Learning,Average,Average,Very Poor,Average,Good,Good material but assessments are tough.
+S056,Machine Learning,Good,Excellent,Excellent,Excellent,Poor,Add more coding assignments.
+S057,Machine Learning,Average,Excellent,Poor,Very Poor,Very Poor,Good material but assessments are tough.
+S058,Machine Learning,Very Poor,Excellent,Very Poor,Very Poor,Average,Needs more real-world projects.
+S059,Machine Learning,Good,Excellent,Very Poor,Excellent,Poor,"Very interactive sessions, great learning experience!"
+S060,Machine Learning,Excellent,Average,Poor,Poor,Excellent,Include case studies from the industry.
+S061,Machine Learning,Poor,Poor,Good,Excellent,Average,Good material but assessments are tough.
+S062,Machine Learning,Very Poor,Poor,Excellent,Good,Very Poor,Slides are good but explanations can be improved.
+S063,Machine Learning,Poor,Poor,Very Poor,Very Poor,Excellent,Needs more real-world projects.
+S064,Machine Learning,Average,Average,Poor,Good,Average,More examples would make concepts clearer.
+S065,Machine Learning,Excellent,Poor,Poor,Poor,Excellent,Add more coding assignments.
+S066,Machine Learning,Excellent,Very Poor,Poor,Average,Poor,"Too much theory, please add more practical sessions."
+S067,Machine Learning,Average,Good,Very Poor,Very Poor,Very Poor,Needs more real-world projects.
+S068,Machine Learning,Poor,Average,Poor,Average,Average,More examples would make concepts clearer.
+S069,Machine Learning,Poor,Average,Poor,Average,Average,"Too much theory, please add more practical sessions."
+S070,Machine Learning,Good,Poor,Excellent,Very Poor,Average,More examples would make concepts clearer.
+S071,Machine Learning,Good,Poor,Good,Average,Average,Slides are good but explanations can be improved.
+S072,Machine Learning,Good,Excellent,Very Poor,Poor,Very Poor,Needs more real-world projects.
+S073,Machine Learning,Poor,Excellent,Excellent,Average,Poor,Slides are good but explanations can be improved.
+S074,Machine Learning,Average,Excellent,Excellent,Excellent,Very Poor,"Content is repetitive, can be made concise."
+S075,Machine Learning,Excellent,Excellent,Average,Very Poor,Excellent,Slides are good but explanations can be improved.
+S076,Machine Learning,Good,Average,Poor,Very Poor,Average,"Too much theory, please add more practical sessions."
+S077,Machine Learning,Poor,Poor,Good,Excellent,Average,Slides are good but explanations can be improved.
+S078,Machine Learning,Average,Good,Excellent,Average,Excellent,"Content is repetitive, can be made concise."
+S079,Machine Learning,Poor,Poor,Average,Good,Average,Slides are good but explanations can be improved.
+S080,Machine Learning,Excellent,Excellent,Average,Very Poor,Poor,Add more coding assignments.
+S081,Machine Learning,Excellent,Poor,Average,Excellent,Good,"Too much theory, please add more practical sessions."
+S082,Machine Learning,Poor,Poor,Excellent,Poor,Good,Good material but assessments are tough.
+S083,Machine Learning,Average,Excellent,Average,Very Poor,Excellent,"Content is repetitive, can be made concise."
+S084,Machine Learning,Average,Very Poor,Very Poor,Average,Very Poor,Needs more real-world projects.
+S085,Machine Learning,Very Poor,Excellent,Average,Very Poor,Excellent,"Too much theory, please add more practical sessions."
+S086,Machine Learning,Poor,Poor,Poor,Poor,Very Poor,"Too much theory, please add more practical sessions."
+S087,Machine Learning,Good,Good,Very Poor,Average,Very Poor,Include case studies from the industry.
+S088,Machine Learning,Excellent,Poor,Very Poor,Average,Poor,Include case studies from the industry.
+S089,Machine Learning,Very Poor,Poor,Poor,Very Poor,Average,More examples would make concepts clearer.
+S090,Machine Learning,Good,Average,Good,Good,Good,Include case studies from the industry.
+S091,Machine Learning,Average,Average,Very Poor,Average,Poor,Slides are good but explanations can be improved.
+S092,Machine Learning,Excellent,Excellent,Average,Very Poor,Good,"Too much theory, please add more practical sessions."
+S093,Machine Learning,Good,Excellent,Good,Average,Excellent,Good material but assessments are tough.
+S094,Machine Learning,Poor,Very Poor,Very Poor,Good,Good,Slides are good but explanations can be improved.
+S095,Machine Learning,Very Poor,Good,Very Poor,Excellent,Very Poor,Add more coding assignments.
+S096,Machine Learning,Average,Very Poor,Average,Average,Excellent,"Too much theory, please add more practical sessions."
+S097,Machine Learning,Poor,Very Poor,Excellent,Good,Excellent,Include case studies from the industry.
+S098,Machine Learning,Good,Average,Very Poor,Very Poor,Good,Slides are good but explanations can be improved.
+S099,Machine Learning,Excellent,Excellent,Good,Average,Good,Needs more real-world projects.
+S100,Machine Learning,Good,Average,Poor,Poor,Very Poor,More examples would make concepts clearer.
+S101,Machine Learning,Average,Average,Average,Excellent,Good,"Content is repetitive, can be made concise."
+S102,Machine Learning,Good,Very Poor,Excellent,Poor,Poor,Excellent course! Loved the lectures.
+S103,Machine Learning,Good,Excellent,Poor,Very Poor,Excellent,"Content is repetitive, can be made concise."
+S104,Machine Learning,Excellent,Very Poor,Very Poor,Poor,Very Poor,Good material but assessments are tough.
+S105,Machine Learning,Good,Excellent,Very Poor,Poor,Average,Slides are good but explanations can be improved.
+S106,Machine Learning,Good,Average,Very Poor,Average,Average,"Content is repetitive, can be made concise."
+S107,Machine Learning,Very Poor,Average,Excellent,Excellent,Poor,Good material but assessments are tough.
+S108,Machine Learning,Good,Excellent,Average,Average,Poor,Excellent course! Loved the lectures.
+S109,Machine Learning,Poor,Good,Good,Excellent,Average,Slides are good but explanations can be improved.
+S110,Machine Learning,Excellent,Average,Poor,Good,Good,Add more coding assignments.
+S111,Machine Learning,Average,Excellent,Excellent,Average,Very Poor,More examples would make concepts clearer.
+S112,Machine Learning,Excellent,Excellent,Average,Excellent,Very Poor,"Too much theory, please add more practical sessions."
+S113,Machine Learning,Very Poor,Good,Excellent,Average,Excellent,"Too much theory, please add more practical sessions."
+S114,Machine Learning,Poor,Very Poor,Good,Poor,Very Poor,Excellent course! Loved the lectures.
+S115,Machine Learning,Good,Average,Good,Excellent,Good,More examples would make concepts clearer.
+S116,Machine Learning,Excellent,Very Poor,Excellent,Poor,Good,Needs more real-world projects.
+S117,Machine Learning,Excellent,Average,Average,Very Poor,Average,"Too much theory, please add more practical sessions."
+S118,Machine Learning,Very Poor,Poor,Average,Average,Poor,"Content is repetitive, can be made concise."
+S119,Machine Learning,Good,Excellent,Average,Good,Average,Slides are good but explanations can be improved.
+S120,Machine Learning,Excellent,Average,Good,Excellent,Very Poor,"Very interactive sessions, great learning experience!"
+S121,Machine Learning,Excellent,Excellent,Poor,Good,Poor,Excellent course! Loved the lectures.
+S122,Machine Learning,Good,Good,Excellent,Poor,Poor,Excellent course! Loved the lectures.
+S123,Machine Learning,Average,Poor,Average,Good,Average,Excellent course! Loved the lectures.
+S124,Machine Learning,Good,Excellent,Very Poor,Average,Poor,"Very interactive sessions, great learning experience!"
+S125,Machine Learning,Good,Average,Excellent,Poor,Excellent,"Too much theory, please add more practical sessions."
+S126,Machine Learning,Poor,Poor,Poor,Good,Good,Slides are good but explanations can be improved.
+S127,Machine Learning,Excellent,Very Poor,Very Poor,Good,Very Poor,More examples would make concepts clearer.
+S128,Machine Learning,Poor,Average,Poor,Poor,Average,"Content is repetitive, can be made concise."
+S129,Machine Learning,Average,Average,Good,Good,Poor,"Very interactive sessions, great learning experience!"
+S130,Machine Learning,Very Poor,Very Poor,Very Poor,Poor,Good,"Content is repetitive, can be made concise."
+S131,Machine Learning,Excellent,Good,Excellent,Excellent,Poor,Include case studies from the industry.
+S132,Machine Learning,Average,Average,Average,Very Poor,Good,Include case studies from the industry.
+S133,Machine Learning,Good,Good,Good,Very Poor,Excellent,Good material but assessments are tough.
+S134,Machine Learning,Average,Average,Good,Excellent,Average,Slides are good but explanations can be improved.
+S135,Machine Learning,Average,Average,Excellent,Good,Poor,"Too much theory, please add more practical sessions."
+S136,Machine Learning,Very Poor,Excellent,Average,Very Poor,Poor,"Very interactive sessions, great learning experience!"
+S137,Machine Learning,Average,Good,Average,Poor,Average,Needs more real-world projects.
+S138,Machine Learning,Good,Very Poor,Poor,Excellent,Very Poor,Slides are good but explanations can be improved.
+S139,Machine Learning,Very Poor,Excellent,Very Poor,Very Poor,Very Poor,"Very interactive sessions, great learning experience!"
+S140,Machine Learning,Poor,Poor,Very Poor,Good,Good,Add more coding assignments.
+S141,Machine Learning,Poor,Average,Average,Very Poor,Excellent,Include case studies from the industry.
+S142,Machine Learning,Very Poor,Excellent,Very Poor,Poor,Good,Include case studies from the industry.
+S143,Machine Learning,Excellent,Very Poor,Good,Very Poor,Excellent,"Content is repetitive, can be made concise."
+S144,Machine Learning,Poor,Average,Good,Poor,Average,"Content is repetitive, can be made concise."
+S145,Machine Learning,Excellent,Very Poor,Very Poor,Poor,Poor,Add more coding assignments.
+S146,Machine Learning,Average,Poor,Good,Poor,Poor,More examples would make concepts clearer.
+S147,Machine Learning,Poor,Very Poor,Very Poor,Average,Excellent,Add more coding assignments.
+S148,Machine Learning,Poor,Poor,Excellent,Excellent,Very Poor,"Too much theory, please add more practical sessions."
+S149,Machine Learning,Good,Very Poor,Excellent,Good,Average,Needs more real-world projects.
+S150,Machine Learning,Good,Good,Good,Average,Very Poor,Excellent course! Loved the lectures.
+S151,Machine Learning,Good,Average,Very Poor,Poor,Very Poor,"Too much theory, please add more practical sessions."
+S152,Machine Learning,Excellent,Poor,Poor,Excellent,Excellent,"Content is repetitive, can be made concise."
+S153,Machine Learning,Poor,Good,Good,Average,Good,"Very interactive sessions, great learning experience!"
+S154,Machine Learning,Good,Poor,Poor,Average,Very Poor,Excellent course! Loved the lectures.
+S155,Machine Learning,Very Poor,Good,Average,Good,Excellent,"Too much theory, please add more practical sessions."
+S156,Machine Learning,Very Poor,Poor,Poor,Good,Poor,Slides are good but explanations can be improved.
+S157,Machine Learning,Poor,Excellent,Excellent,Very Poor,Poor,More examples would make concepts clearer.
+S158,Machine Learning,Poor,Average,Average,Good,Very Poor,Good material but assessments are tough.
+S159,Machine Learning,Excellent,Poor,Average,Average,Good,More examples would make concepts clearer.
+S160,Machine Learning,Very Poor,Average,Excellent,Excellent,Average,More examples would make concepts clearer.
+S161,Machine Learning,Good,Very Poor,Average,Excellent,Poor,More examples would make concepts clearer.
+S162,Machine Learning,Good,Excellent,Average,Average,Good,"Content is repetitive, can be made concise."
+S163,Machine Learning,Poor,Average,Poor,Average,Average,Add more coding assignments.
+S164,Machine Learning,Poor,Average,Good,Good,Very Poor,"Too much theory, please add more practical sessions."
+S165,Machine Learning,Average,Good,Poor,Poor,Very Poor,Include case studies from the industry.
+S166,Machine Learning,Good,Good,Excellent,Excellent,Very Poor,Include case studies from the industry.
+S167,Machine Learning,Good,Average,Very Poor,Good,Good,Slides are good but explanations can be improved.
+S168,Machine Learning,Very Poor,Good,Poor,Poor,Very Poor,"Very interactive sessions, great learning experience!"
+S169,Machine Learning,Good,Poor,Excellent,Excellent,Very Poor,Excellent course! Loved the lectures.
+S170,Machine Learning,Good,Very Poor,Average,Good,Average,"Too much theory, please add more practical sessions."
+S171,Machine Learning,Average,Excellent,Poor,Poor,Poor,"Very interactive sessions, great learning experience!"
+S172,Machine Learning,Poor,Excellent,Good,Poor,Poor,Include case studies from the industry.
+S173,Machine Learning,Average,Very Poor,Poor,Excellent,Poor,"Very interactive sessions, great learning experience!"
+S174,Machine Learning,Good,Very Poor,Very Poor,Very Poor,Excellent,Include case studies from the industry.
+S175,Machine Learning,Good,Good,Average,Good,Very Poor,Add more coding assignments.
+S176,Machine Learning,Average,Good,Average,Very Poor,Average,Include case studies from the industry.
+S177,Machine Learning,Good,Good,Poor,Average,Very Poor,Add more coding assignments.
+S178,Machine Learning,Average,Good,Very Poor,Average,Poor,Excellent course! Loved the lectures.
+S179,Machine Learning,Good,Very Poor,Poor,Very Poor,Excellent,Good material but assessments are tough.
+S180,Machine Learning,Good,Poor,Poor,Excellent,Very Poor,Good material but assessments are tough.
+S181,Machine Learning,Good,Very Poor,Poor,Very Poor,Poor,Include case studies from the industry.
+S182,Machine Learning,Average,Excellent,Excellent,Very Poor,Good,"Content is repetitive, can be made concise."
+S183,Machine Learning,Excellent,Poor,Poor,Excellent,Good,More examples would make concepts clearer.
+S184,Machine Learning,Very Poor,Poor,Excellent,Excellent,Very Poor,More examples would make concepts clearer.
+S185,Machine Learning,Average,Excellent,Good,Average,Poor,"Too much theory, please add more practical sessions."
+S186,Machine Learning,Good,Poor,Excellent,Very Poor,Excellent,Excellent course! Loved the lectures.
+S187,Machine Learning,Average,Good,Excellent,Average,Very Poor,Needs more real-world projects.
+S188,Machine Learning,Average,Average,Good,Good,Poor,Excellent course! Loved the lectures.
+S189,Machine Learning,Average,Poor,Good,Excellent,Poor,Good material but assessments are tough.
+S190,Machine Learning,Very Poor,Good,Excellent,Poor,Poor,Needs more real-world projects.
+S191,Machine Learning,Good,Excellent,Poor,Average,Excellent,More examples would make concepts clearer.
+S192,Machine Learning,Very Poor,Poor,Excellent,Very Poor,Excellent,Needs more real-world projects.
+S193,Machine Learning,Very Poor,Excellent,Average,Average,Very Poor,Needs more real-world projects.
+S194,Machine Learning,Good,Poor,Very Poor,Average,Poor,More examples would make concepts clearer.
+S195,Machine Learning,Poor,Good,Excellent,Average,Average,Needs more real-world projects.
+S196,Machine Learning,Very Poor,Average,Very Poor,Poor,Excellent,Good material but assessments are tough.
+S197,Machine Learning,Poor,Average,Poor,Average,Excellent,"Content is repetitive, can be made concise."
+S198,Machine Learning,Good,Average,Average,Poor,Excellent,More examples would make concepts clearer.
+S199,Machine Learning,Poor,Average,Excellent,Average,Very Poor,"Very interactive sessions, great learning experience!"
+S200,Machine Learning,Average,Average,Very Poor,Average,Very Poor,"Content is repetitive, can be made concise."
